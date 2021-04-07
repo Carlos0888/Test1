@@ -4,14 +4,14 @@
             "id": 0,
             "description": "My NFT",
             "external_url": "https://nourl.com",
-            "image": "https://github.com/Carlos0888/Test2/blob/main/20210408_010321_resized.jpg",
+            "image": "https://raw.githubusercontent.com/Carlos0888/Test2/main/20210408_010321_resized.jpg",
             "name": "NFT 0"
         },
         {
             "id": 1,
             "description": "My NFT",
             "external_url": "https://nourl.com",
-            "image": "https://github.com/Carlos0888/Test2/blob/main/20210408_010321_resized.jpg",
+            "image": "https://raw.githubusercontent.com/Carlos0888/Test2/main/20210408_010321_resized.jpg",
             "name": "NFT 1"
         }
     ]
